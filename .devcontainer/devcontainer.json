@@ -14,7 +14,6 @@
 				"ms-vscode.makefile-tools",
 				"ms-vscode.cpptools-extension-pack",
 				"ms-python.python",
-				"esbenp.prettier-vscode",
 				"ms-python.black-formatter"
 			]
 		}
