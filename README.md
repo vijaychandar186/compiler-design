@@ -1,6 +1,6 @@
 # Compiler Design Exercises
 
-13 compiler design exercises implemented in **Python**, **C**, and **C++** (42 programs total). Each exercise includes detailed algorithm explanations, proper variable naming, formatted output, and built-in example inputs.
+13 compiler design exercises implemented in **Python**, **C**, and **C++** (42 programs total). Each exercise includes detailed algorithm explanations.
 
 ## Exercises
 
